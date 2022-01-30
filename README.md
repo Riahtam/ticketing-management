@@ -1,3 +1,3 @@
 # ticketing-management
-ticket-management using php.
+Park ticketketing-management using php and stripe api.
 
