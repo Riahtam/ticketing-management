@@ -1,0 +1,6 @@
+
+Park ticketing management using Php and stripe api.
+user login : admin
+  password: admin2
+default card : 
+4242 4242 4242 4242 visa
